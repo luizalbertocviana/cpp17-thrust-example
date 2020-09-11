@@ -1,0 +1,5 @@
+/.ccls-cache/
+/CMakeLists.txt~
+/build/
+/cmake/add_thrust.cmake~
+/cmake/solve_dependencies.cmake~
