@@ -1,0 +1,3 @@
+model: nvidia geforce gtx 1650
+archtecture: Turing
+code name: nv167 (tu117)
